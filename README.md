@@ -1,4 +1,4 @@
-# bytedance-poc
+# bytedance-tts-poc
 
 To install dependencies:
 
